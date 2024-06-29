@@ -10,9 +10,47 @@
 
 </p>
 
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Edwin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## Who am I?
+
+ ```python
+  class WhoAmI:
+    user = 'EDWIN REYES V.'
+	current_edu = "SENA"
+    currently_learning = "Javascript,php,sql "
+  fun_fact = "I hate hot food"
+  
+	hobbies = [
+				'Music',
+                         'Read Books',
+			 	' Video Games',
+				'Sci-Fi, Horror, Animated & Action Movies',
+                           'Go To Gym'
+
+			]
+	
+	def getCity():
+		return Ibague_Tolima()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>

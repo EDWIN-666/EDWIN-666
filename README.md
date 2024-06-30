@@ -20,7 +20,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Edwin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, How Are You?<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
